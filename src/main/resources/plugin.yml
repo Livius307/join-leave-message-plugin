@@ -1,0 +1,6 @@
+name: JoinLeaveMessage
+version: '1.0-SNAPSHOT'
+main: org.livius.joinLeaveMessage.JoinLeaveMessage
+api-version: '1.21'
+authors: [ Livius ]
+description: A join/leave message plugin!
